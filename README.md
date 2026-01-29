@@ -33,6 +33,9 @@
 responsibilities:
   - Monitor and manage AWS infrastructure across multiple client accounts
   - Design scalable cloud solutions using EC2, S3, RDS, VPC
+  - Execute cloud migrations: AWS to GCP, Azure to GCP
+  - Multi-cloud operations and workload management across AWS and GCP
+  - Project deployment with cost optimization strategies
   - Troubleshoot infrastructure issues and optimize performance
   - Implement cost-optimized cloud architectures
 ```
