@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=900&color=667EEA&center=true&vCenter=true&width=800&lines=CLOUD+ENGINEER+%7C+AWS+%7C+GCP;BUILDING+SCALABLE+CLOUD+SOLUTIONS;AUTOMATION+IS+MY+SUPERPOWER;TURNING+INFRASTRUCTURE+INTO+CODE)](https://git.io/typing-svg)
 
-### ☁️ Cloud Engineer | 🔄 Cloud Migration Specialist | 🌐 Multi-Cloud Expert | ⚙️ AWS | GCP | Azure
+### 🔄 Cloud Migration | 🌐 Multi-Cloud Engineer | ⚙️ AWS | GCP | Azure
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jay-sevak-9878521a6)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jaysevak6847@gmail.com)
