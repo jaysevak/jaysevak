@@ -257,7 +257,7 @@ me.say_hi()
 
 ### 👁️ Profile Views
 
-![](https://komarev.com/ghpvc/?username=jaysevak&color=667eea&style=for-the-badge&label=PROFILE+VIEWS)
+![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjaysevak&count_bg=%23667EEA&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=PROFILE+VIEWS&edge_flat=false)
 
 ---
 
