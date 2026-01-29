@@ -199,7 +199,7 @@ AWS to GCP & Legacy to Cloud-Native
 - [View Certificate →](https://github.com/jaysevak/jaysevak/blob/main/TCS-Certification.pdf)
 
 **🎖️ Getting Started with Python - Coursera**
-- Completed: 2024
+- Completed: September 13, 2020
 - Python Programming Fundamentals
 - [View Certificate →](https://coursera.org/share/48b83611aade2a7d65a1752fe5a9c6e6)
 
