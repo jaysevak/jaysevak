@@ -182,7 +182,7 @@ AWS to GCP & Legacy to Cloud-Native
 <div align="center">
 
 [![Google Cloud](https://img.shields.io/badge/-Google_Cloud_Associate_Engineer-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.credly.com/badges/9455fb74-6a76-4970-995a-f293ddb40dcc/public_url)
-[![TCS](https://img.shields.io/badge/-TCS_Career_Edge-0066CC?style=for-the-badge&logo=tcs&logoColor=white)](https://www.tcs.com/)
+[![TCS](https://img.shields.io/badge/-TCS_Career_Edge-0066CC?style=for-the-badge&logo=tcs&logoColor=white)](https://github.com/jaysevak/jaysevak/blob/main/TCS-Certification.pdf)
 [![Credly Profile](https://img.shields.io/badge/-View_All_Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/jay-sevak)
 
 </div>
@@ -195,6 +195,7 @@ AWS to GCP & Legacy to Cloud-Native
 **🎖️ TCS Career Edge Course Certificate**
 - Completed: 2023
 - Professional Development and Industry Skills Enhancement
+- [View Certificate →](https://github.com/jaysevak/jaysevak/blob/main/TCS-Certification.pdf)
 
 **🔗 [View All My Certifications on Credly →](https://www.credly.com/users/jay-sevak)**
 
