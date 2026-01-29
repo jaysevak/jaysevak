@@ -183,6 +183,7 @@ AWS to GCP & Legacy to Cloud-Native
 
 [![Google Cloud](https://img.shields.io/badge/-Google_Cloud_Associate_Engineer-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.credly.com/badges/9455fb74-6a76-4970-995a-f293ddb40dcc/public_url)
 [![TCS](https://img.shields.io/badge/-TCS_Career_Edge-0066CC?style=for-the-badge&logo=tcs&logoColor=white)](https://github.com/jaysevak/jaysevak/blob/main/TCS-Certification.pdf)
+[![Coursera](https://img.shields.io/badge/-Getting_Started_with_Python-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://coursera.org/share/48b83611aade2a7d65a1752fe5a9c6e6)
 [![Credly Profile](https://img.shields.io/badge/-View_All_Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/jay-sevak)
 
 </div>
@@ -196,6 +197,11 @@ AWS to GCP & Legacy to Cloud-Native
 - Completed: 2023
 - Professional Development and Industry Skills Enhancement
 - [View Certificate →](https://github.com/jaysevak/jaysevak/blob/main/TCS-Certification.pdf)
+
+**🎖️ Getting Started with Python - Coursera**
+- Completed: 2024
+- Python Programming Fundamentals
+- [View Certificate →](https://coursera.org/share/48b83611aade2a7d65a1752fe5a9c6e6)
 
 **🔗 [View All My Certifications on Credly →](https://www.credly.com/users/jay-sevak)**
 
