@@ -246,15 +246,9 @@ me.say_hi()
 
 <div align="center">
 
-### 👀 Profile Views
+### 👁️ Profile Views
 
-![Profile Views](https://komarev.com/ghpvc/?username=jaysevak&color=667eea&style=flat-square&label=Profile+Views)
-
----
-
-### 💡 Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://komarev.com/ghpvc/?username=jaysevak&color=667eea&style=for-the-badge&label=PROFILE+VIEWS)
 
 ---
 
