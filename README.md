@@ -174,7 +174,7 @@ AWS to GCP & Legacy to Cloud-Native
 
 <div align="center">
 
-[![Google Cloud](https://img.shields.io/badge/-Google_Cloud_Associate_Engineer-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/certification/cloud-engineer)
+[![Google Cloud](https://img.shields.io/badge/-Google_Cloud_Associate_Engineer-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.credly.com/badges/9455fb74-6a76-4970-995a-f293ddb40dcc/public_url)
 [![TCS](https://img.shields.io/badge/-TCS_Career_Edge-0066CC?style=for-the-badge&logo=tcs&logoColor=white)](https://www.tcs.com/)
 
 </div>
@@ -182,6 +182,7 @@ AWS to GCP & Legacy to Cloud-Native
 **🎖️ Google Cloud Certified Associate Cloud Engineer**
 - Certification Period: 2025 - 2028
 - Cloud Architecture, Deployment, and Management
+- [View Certificate →](https://www.credly.com/badges/9455fb74-6a76-4970-995a-f293ddb40dcc/public_url)
 
 **🎖️ TCS Career Edge Course Certificate**
 - Completed: 2023
