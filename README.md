@@ -225,32 +225,6 @@ me.say_hi()
 
 ---
 
-<div align="center">
-
-## 📊 GitHub Analytics
-
-![Jay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaysevak&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jaysevak&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=667eea&currStreakLabel=764ba2)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaysevak&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9)
-
----
-
-### 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=jaysevak&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-### 📈 Contribution Graph
-
-[![Jay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jaysevak&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=667eea&line=764ba2&point=667eea)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
 ### ✨ Philosophy
 
 > "The cloud isn't just about servers — it's about possibilities."
