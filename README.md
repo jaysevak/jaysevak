@@ -8,6 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jay-sevak-9878521a6)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jaysevak6847@gmail.com)
+[![Credly](https://img.shields.io/badge/-Credly-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/users/jay-sevak)
 [![Phone](https://img.shields.io/badge/-Phone-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+919664507549)
 [![Location](https://img.shields.io/badge/-Bhuj,_Gujarat-FF6B6B?style=flat-square&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Bhuj,Gujarat,India)
 
@@ -176,6 +177,7 @@ AWS to GCP & Legacy to Cloud-Native
 
 [![Google Cloud](https://img.shields.io/badge/-Google_Cloud_Associate_Engineer-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.credly.com/badges/9455fb74-6a76-4970-995a-f293ddb40dcc/public_url)
 [![TCS](https://img.shields.io/badge/-TCS_Career_Edge-0066CC?style=for-the-badge&logo=tcs&logoColor=white)](https://www.tcs.com/)
+[![Credly Profile](https://img.shields.io/badge/-View_All_Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/jay-sevak)
 
 </div>
 
@@ -187,6 +189,8 @@ AWS to GCP & Legacy to Cloud-Native
 **🎖️ TCS Career Edge Course Certificate**
 - Completed: 2023
 - Professional Development and Industry Skills Enhancement
+
+**🔗 [View All My Certifications on Credly →](https://www.credly.com/users/jay-sevak)**
 
 ---
 
