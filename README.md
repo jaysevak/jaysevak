@@ -83,6 +83,7 @@ achievements:
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaysevak)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jay-sevak-9878521a6)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-3b82f6?style=for-the-badge&logo=vercel&logoColor=white)](https://jay-sevak.vercel.app)
 
 </div>
 
