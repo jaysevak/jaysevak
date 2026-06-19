@@ -185,6 +185,8 @@ AWS to GCP & Legacy to Cloud-Native
 <div align="center">
 
 [![Google Cloud](https://img.shields.io/badge/-Google_Cloud_Associate_Engineer-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.credly.com/badges/9455fb74-6a76-4970-995a-f293ddb40dcc/public_url)
+[![AWS SAA](https://img.shields.io/badge/-AWS_Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/users/jay-sevak)
+[![Claude Architect](https://img.shields.io/badge/-Claude_Certified_Architect-6B4FBB?style=for-the-badge&logo=anthropic&logoColor=white)](https://verify.skilljar.com/c/j77qfmjto274)
 [![TCS](https://img.shields.io/badge/-TCS_Career_Edge-0066CC?style=for-the-badge&logo=tcs&logoColor=white)](https://github.com/jaysevak/jaysevak/blob/main/TCS-Certification.pdf)
 [![Coursera](https://img.shields.io/badge/-Getting_Started_with_Python-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://coursera.org/share/48b83611aade2a7d65a1752fe5a9c6e6)
 [![Credly Profile](https://img.shields.io/badge/-View_All_Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/jay-sevak)
