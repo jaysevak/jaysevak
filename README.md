@@ -206,6 +206,16 @@ AWS to GCP & Legacy to Cloud-Native
 - Python Programming Fundamentals
 - [View Certificate →](https://coursera.org/share/48b83611aade2a7d65a1752fe5a9c6e6)
 
+**🎖️ AWS Certified Solutions Architect – Associate**
+- Certification Period: 2026 - 2029
+- Cloud Architecture, Solutions Design, and Best Practices
+- [View Certificate →](https://www.credly.com/users/jay-sevak)
+
+**🎖️ Claude Certified Architect – Foundations**
+- Certification Period: May 2026 - Nov 2026
+- AI Architecture and Implementation
+- [View Certificate →](https://verify.skilljar.com/c/j77qfmjto274)
+
 **🔗 [View All My Certifications on Credly →](https://www.credly.com/users/jay-sevak)**
 
 ---
