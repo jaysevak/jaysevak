@@ -183,6 +183,26 @@ AWS to GCP & Legacy to Cloud-Native
 
 ## 🏆 Certifications & Achievements
 
+<!-- LATEST-ACHIEVEMENTS:START (auto-updated by portfolio automation — do not edit inside) -->
+### 🏅 Latest Achievements
+
+<p align="left">
+  <a href="https://www.linkedin.com/posts/jay-sevak-9878521a6_aws-awscertified-aicertification-activity-7510568719115423745-kTaW"><img src="https://media.licdn.com/dms/image/v2/D4D22AQHaN1JW4qTy7g/feedshare-shrink_800/B4DaDrmcgOLIAc-/0/1790659119589?e=2147483647&v=beta&t=5kulTnVwOze_nN_qmfCjg-IgIa-MwbFUYS0srcqmAWE" alt="AWS Certified AI Practitioner" title="AWS Certified AI Practitioner (2026-09-29)" width="100"/></a>
+  <a href="https://www.credly.com/badges/65ddc905-ede4-4a12-87b8-b982cc335cfd/public_url"><img src="https://images.credly.com/images/b870667f-00a3-48d7-b988-9c02b441b883/image.png" alt="Well-Architected Proficient" title="Well-Architected Proficient (2026-09-02)" width="100"/></a>
+  <a href="https://www.credly.com/badges/f6e7583b-de5f-4d52-a28b-3a2454824bfe/public_url"><img src="https://images.credly.com/images/f2040db3-3904-4240-8966-e87b1510bea0/blob" alt="Claude Certified Architect - Foundations" title="Claude Certified Architect - Foundations (2026-05-27)" width="100"/></a>
+</p>
+
+- **AWS Certified AI Practitioner** · *Amazon Web Services* · 2026-09-29 — [View post](https://www.linkedin.com/posts/jay-sevak-9878521a6_aws-awscertified-aicertification-activity-7510568719115423745-kTaW)
+- **Redis Certified Associate: Cloud Operator** · ** · 2026-09-15 — [View post](https://www.linkedin.com/posts/jay-sevak-9878521a6_redis-associate-cloud-operator-certificate-activity-7505480480872448000-5xOH)
+- **Well-Architected Proficient** · *Amazon Web Services* · 2026-09-02 — [Verify](https://www.credly.com/badges/65ddc905-ede4-4a12-87b8-b982cc335cfd/public_url)
+- **Claude Certified Architect - Foundations** · *Anthropic* · 2026-05-27 — [Verify](https://www.credly.com/badges/f6e7583b-de5f-4d52-a28b-3a2454824bfe/public_url)
+
+[View all badges on Credly →](https://www.credly.com/users/jay-sevak/badges)
+
+<sub>Last synced from Credly: 2026-10-09</sub>
+<!-- LATEST-ACHIEVEMENTS:END -->
+
+
 <div align="center">
 
 [![Google Cloud](https://img.shields.io/badge/-Google_Cloud_Associate_Engineer-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.credly.com/badges/9455fb74-6a76-4970-995a-f293ddb40dcc/public_url)
