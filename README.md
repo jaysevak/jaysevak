@@ -224,12 +224,12 @@ AWS to GCP & Legacy to Cloud-Native
 **🎖️ AWS Certified AI Practitioner**
 - Issued: September 2026
 - Issued by Amazon Web Services
-- [View Post →](https://www.linkedin.com/posts/jay-sevak-9878521a6_aws-awscertified-aicertification-activity-7510568719115423745-kTaW)
+- [View Certificate →](https://media.licdn.com/dms/image/v2/D4D22AQHaN1JW4qTy7g/feedshare-shrink_800/B4DaDrmcgOLIAc-/0/1790659119589?e=2147483647&v=beta&t=5kulTnVwOze_nN_qmfCjg-IgIa-MwbFUYS0srcqmAWE)
 
 **🎖️ Redis Certified Associate: Cloud Operator**
-- Issued: September 2026
+- Certification Period: 2026 - 2028
 - Issued by Redis
-- [View Post →](https://www.linkedin.com/posts/jay-sevak-9878521a6_redis-associate-cloud-operator-certificate-activity-7505480480872448000-5xOH)
+- [View Certificate →](https://www.credly.com/users/jay-sevak/badges)
 
 **🎖️ Well-Architected Proficient**
 - Issued: September 2026
