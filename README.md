@@ -229,7 +229,7 @@ AWS to GCP & Legacy to Cloud-Native
 **🎖️ Redis Certified Associate: Cloud Operator**
 - Certification Period: 2026 - 2028
 - Issued by Redis
-- [View Certificate →](https://www.credly.com/users/jay-sevak/badges)
+- [View Certificate →](https://www.credential.net/193964785)
 
 **🎖️ Well-Architected Proficient**
 - Issued: September 2026
