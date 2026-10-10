@@ -26,30 +26,33 @@
 
 ## 💼 Professional Journey
 
-### ☁️ Cloud Engineer @ AeonX Digital Solutions LTD.
-**August 2024 - Present | Bhuj, Gujarat**
+<!-- PROFESSIONAL-JOURNEY:START (auto-updated by portfolio automation — do not edit inside) -->
+### ☁️ Associate Consultant · Cloud Engineer @ AeonX Digital Solutions LTD.
+**Aug 2024 - Present | Ahmedabad, Gujarat · On-site**  
+*Full-time · Associate Consultant (Aug 2026 – Present), Cloud Engineer (Aug 2024 – Present)*
 
 ```yaml
 responsibilities:
-  - Monitor and manage AWS infrastructure across multiple client accounts
-  - Design scalable cloud solutions using EC2, S3, RDS, VPC
-  - Execute cloud migrations: AWS to GCP, Azure to GCP
-  - Multi-cloud operations and workload management across AWS and GCP
-  - Project deployment with cost optimization strategies
-  - Troubleshoot infrastructure issues and optimize performance
-  - Implement cost-optimized cloud architectures
+  - Design, deploy, and manage secure, scalable, and cost-efficient cloud infrastructure on AWS and GCP for multiple client environments
+  - Monitor AWS infrastructure and production alerts; troubleshoot cloud and networking issues, perform root cause analysis, and resolve incidents
+  - Build scalable solutions with AWS services (EC2, S3, RDS, VPC) following best practices for security, resilience, and performance
+  - Optimize cost by rightsizing resources, improving storage utilization, and implementing cost-effective cloud architectures
+  - Support cloud migrations, infrastructure deployments, and production releases with development and DevOps teams
+  - Automate repetitive operational tasks with AI-driven automation using Amazon Kiro and cloud AI technologies
 ```
 
-### ☁️ Cloud Engineer @ SilverTouch Technologies LTD.
-**December 2023 - June 2024 | Ahmedabad, Gujarat**
+### ☁️ Cloud Engineer @ Silver Touch Technologies Ltd.
+**Dec 2023 - Jul 2024 | Ahmedabad, Gujarat · On-site**  
+*Apprenticeship*
 
 ```yaml
 achievements:
-  - Developed comprehensive cloud solutions on AWS and Azure
-  - Migrated legacy applications to cloud-native architectures
-  - Hands-on experience with live server configuration
-  - Active participation in agile development processes
+  - Developed and maintained cloud infrastructure solutions on AWS and Microsoft Azure
+  - Supported migration of legacy applications to modern cloud-native architectures
+  - Configured and managed live servers, gaining hands-on server administration experience
+  - Collaborated with cross-functional teams in Agile development processes
 ```
+<!-- PROFESSIONAL-JOURNEY:END -->
 
 ---
 
